@@ -12,5 +12,3 @@
 
 
 <a href="https://github.com/Jerrely1618/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jerrely1618&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
