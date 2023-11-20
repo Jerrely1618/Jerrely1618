@@ -51,5 +51,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jerrely1618&hide=Jupyter%20Notebook,html&langs_count=8&layout=donut&theme=dark" alt="GitHub Readme Stats">
 </p>
+
+### Weekly Breakdown
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
