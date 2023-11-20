@@ -48,3 +48,6 @@
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/others/git.svg" alt="vscode" height="50" width="50" /> 
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/others/npm.svg" alt="vscode" height="50" width="50" /> 
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jerrely1618&hide=Jupyter%20Notebook,html&langs_count=8&layout=donut&theme=dark" alt="GitHub Readme Stats">
+</p>
