@@ -54,4 +54,13 @@
 
 ### Weekly Breakdown
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript   22 hrs 4 mins   ███████████████████████▓░   95.08 %
+CSS          29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+HTML         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+TypeScript   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+```
+
 <!--END_SECTION:waka-->
