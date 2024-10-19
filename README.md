@@ -2,7 +2,7 @@
 <h2 align="left" id="macropower-tech">About me</h2>
 
 - :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/jerrelyv)
-- 💼 Computer Engineer Student at CCNY
+- 💼 Computer Engineer
 - ❤️ I love coding in Python, but I'm not afraid of doing new things and learning new technologies
 
 <h2 align="left" id="macropower-tech">About me</h2>
