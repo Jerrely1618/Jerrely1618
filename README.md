@@ -57,11 +57,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other         3 hrs 52 mins   █████████████████████▓░░░   86.68 %
-JavaScript    24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 %
-Markdown      8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-Image (svg)   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-CSS           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
