@@ -1,4 +1,4 @@
-<h1 align="center" id="macropower-title">:wave: Hello there! I'm Jerrely Vizueta</h1>
+<h1 align="center" id="macropower-title">:wave: Hello there! I'm Jerrely 'Victor' Vizueta</h1>
 <h2 align="left" id="macropower-tech">About me</h2>
 
 - :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/jerrelyv)
